@@ -28,7 +28,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ryu024&theme=midnight-purple&show_icons=true&hide_border=false&count_private=false"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryu024&theme=midnight-purple&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryu024&theme=midnight-purple&hide_border=false"/>
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryu024&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact"/>
