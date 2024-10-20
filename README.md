@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="" src="https://github.com/AbTrax/AbTrax/blob/main/abtrax-banner.png?raw=true"  />
+  <img src="https://github.com/Ryu024/Ryu024/blob/main/Dark%20Green%20Minimalist%20Inspirational%20Quote%20LinkedIn%20Banner%20(1).gif?raw=true" alt="animated gif" />
 </div>
 
 ###
