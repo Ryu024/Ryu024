@@ -8,14 +8,16 @@
 
 ###
 
-<h2 align="center">About Me</h2>
+![Profile views](https://komarev.com/ghpvc/?username=Ryu024&color=7912dc)
+
+<h2 align="center">About ME 💬</h2>
 
 ###
 
-🤖 I love learning about and making machine learning systems.\
-💻 I am constantly seeking out new technologies and learning about them.\
-🤝 I am open to collaborating with others on various projects, particularly those related to machine learning or areas that I have yet to explore.\
-🌟 In my leisure time, I enjoy exploring a variety of media and finding new sources of inspiration for projects.
+- ✨ I'm an undergraduate student pursuing B.Tech in Computer Science\
+- ✨ I'm passionate about **building new things** and solving complex problems through technology.\
+- ✨ I am constantly seeking out new technologies and learning about them.\
+- ✨ In my leisure time, I enjoy playing games and watching anime.
 ###
 
 <h2 align="center">My Stats</h2>
@@ -23,8 +25,9 @@
 ###
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbTrax&theme=bear" width=750  alt="stats graph"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Ryu024&theme=midnight-purple&show_icons=true&hide_border=false&count_private=false"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryu024&theme=midnight-purple&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryu024&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact"/>
 </div>
 
 ###
@@ -34,20 +37,14 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" width="52" alt="pytorch logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="52" alt="tensorflow logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="numpy logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" width="52" alt="jupyter logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" width="52" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="c++ logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="52" alt="Javscript Logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height="40" width="52" alt="html logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="40" width="52" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwind logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="40" width="52" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" width="52" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" width="52" alt="embeddedc logo"  />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/rust/rust-original.svg" height="40" width="52" alt="rust logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" width="52" alt="arduino logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" width="52" alt="raspberrypi logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" width="52" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" height="40" width="52" alt="heroku logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" height="40" width="52" alt="neovim logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="52" alt="git logo"  />
 </div>
 
@@ -58,9 +55,15 @@
 ###
 
 <div align="center">
-  <a href="https://discord.com/users/1077472454563332157" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  /></a>
+  <a href="https://discord.com/users/1173874926671900682" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  /></a>
   
-  <a href="https://stackoverflow.com/users/19914762/abtrax" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  /></a>
+  <a href="https://www.linkedin.com/in/ayush-anand-b3a01b318/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LinkedIn logo" />
+</a>
+
+<a href="https://x.com/AstroBoy_246" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Twitter logo" />
+</a>
 </div>
 
 ###
