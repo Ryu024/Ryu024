@@ -1,4 +1,4 @@
-![Profile views ](https://komarev.com/ghpvc/?username=Ryu024&color=7912dc)
+![Views ](https://komarev.com/ghpvc/?username=Ryu024&color=7912dc)
 
 # Hey, I'm Ayush! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
