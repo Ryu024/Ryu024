@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=Ryu024&color=7912dc)
+![Profile views ](https://komarev.com/ghpvc/?username=Ryu024&color=7912dc)
 
 # Hey, I'm Ayush! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -26,6 +26,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ryu024&theme=midnight-purple&show_icons=true&hide_border=false&count_private=false"/>
+</div>
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryu024&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact"/>
 </div>
 
