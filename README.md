@@ -14,9 +14,9 @@
 
 ###
 
-- ✨ I'm an undergraduate student pursuing B.Tech in Computer Science\
-- ✨ I'm passionate about **building new things** and solving complex problems through technology.\
-- ✨ I am constantly seeking out new technologies and learning about them.\
+- ✨ I'm an undergraduate student pursuing B.Tech in Computer Science
+- ✨ I'm passionate about **building new things** and solving complex problems through technology.
+- ✨ I am constantly seeking out new technologies and learning about them.
 - ✨ In my leisure time, I enjoy playing games and watching anime.
 ###
 
@@ -26,7 +26,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ryu024&theme=midnight-purple&show_icons=true&hide_border=false&count_private=false"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryu024&theme=midnight-purple&hide_border=false"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryu024&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact"/>
 </div>
 
